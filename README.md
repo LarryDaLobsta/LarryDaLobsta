@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
     </a>
     <a href="www.linkedin.com/in/larry-white-184163254">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-        
     </a>
    
 </div>
