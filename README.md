@@ -80,11 +80,11 @@ Most of my design decisions aim to reduce surprise and cognitive load—especial
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LarryDaLobsta&amp;show_icons=true&amp;include_all_commits=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarryDaLobsta&amp;layout=compact" />
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarryDaLobsta&show_icons=true&include_all_commits=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarryDaLobsta&layout=compact&cache_seconds=86400)
 
 ### 🌱 Outside of Code
 
