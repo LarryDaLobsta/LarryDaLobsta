@@ -78,13 +78,6 @@ Most of my design decisions aim to reduce surprise and cognitive load—especial
 
 ---
 
-
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LarryDaLobsta)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LarryDaLobsta)
-
 ### 🌱 Outside of Code
 
 Outside of software, I focus on long-running systems that reward patience and iteration—fitness, regenerative projects, and personal skill development.
