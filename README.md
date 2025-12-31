@@ -93,3 +93,4 @@ These experiences strongly influence how I approach engineering: stability matte
 
 📫 **How to reach me:**  
 [LinkedIn](https://www.linkedin.com/in/larrywhite00)
+[Gmail](mailto:larry.l.white.99@gmail.com)
