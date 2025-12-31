@@ -78,13 +78,12 @@ Most of my design decisions aim to reduce surprise and cognitive load—especial
 
 ---
 
+
 ### 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=LarryDaLobsta)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarryDaLobsta&show_icons=true&include_all_commits=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarryDaLobsta&layout=compact&cache_seconds=86400)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LarryDaLobsta)
 
 ### 🌱 Outside of Code
 
