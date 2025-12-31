@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="100"/>
 <div id="badges">
-    <a href="www.linkedin.com/in/larry-white-184163254">
+    <a href="https://www.linkedin.com/in/larrywhite00">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="www.linkedin.com/in/larry-white-184163254">
+    <a href="mailto:larry.l.white.99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
     </a>
    
@@ -87,4 +87,4 @@ These experiences strongly influence how I approach engineering: stability matte
 ---
 
 📫 **How to reach me:**  
-[LinkedIn](https://www.linkedin.com/in/larry-white-184163254)
+[LinkedIn](https://www.linkedin.com/in/larrywhite00)
