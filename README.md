@@ -79,7 +79,6 @@ Most of my design decisions aim to reduce surprise and cognitive load—especial
 ---
 
 ### 📊 GitHub Stats
-<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LarryDaLobsta&amp;show_icons=true&amp;include_all_commits=true" />
